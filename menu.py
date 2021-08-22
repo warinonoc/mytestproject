@@ -1,1 +1,2 @@
 print('Menu')
+print('test')
